@@ -1,9 +1,8 @@
 
 # Compass - AI 聊天与人生管理系统
 
-[![GitHub Roast](https://githubroast.dev/api/card/amanmanlai-byte)](https://githubroast.dev/u/amanmanlai-byte)
 
-[![GitHub Roast 评分徽章](https://githubroast.dev/api/badge/amanmanlai-byte)](https://githubroast.dev/u/amanmanlai-byte)
+[![GitHub Roast](https://githubroast.dev/api/card/amanmanlai-byte)](https://githubroast.dev/u/amanmanlai-byte)
 
 > 一站式 AI 聊天与人生管理平台，支持 15 家 AI 提供商、40+ 模型，集成人生地图、目标管理、记忆系统、定期复盘和技能追踪。
 
